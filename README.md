@@ -13,7 +13,7 @@ pinned: false
 ![Java](https://img.shields.io/badge/Java-17%2B-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.3.5-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-**🌟 Live Demo:** [https://huggingface.co/spaces/alwaysprince05e/UPI-Without-Internet](https://huggingface.co/spaces/alwaysprince05e/UPI-Without-Internet)
+**🌟 Live Demo:** [View Live App](https://huggingface.co/spaces/alwaysprince05e/UPI-Without-Internet)
 
 A proof-of-concept Spring Boot application demonstrating how digital payments (similar to UPI) can be securely transmitted in environments without internet connectivity. By leveraging local mesh network concepts (Bluetooth Low Energy, Wi-Fi Direct, Local LAN) and deferred asynchronous settlement, users can queue and relay encrypted transaction payloads that securely sync with the bank when connectivity is restored.
 
