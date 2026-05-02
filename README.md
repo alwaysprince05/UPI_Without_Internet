@@ -1,3 +1,12 @@
+---
+title: UPI Without Internet
+emoji: 📡
+colorFrom: blue
+colorTo: green
+sdk: docker
+pinned: false
+---
+
 # UPI Without Internet (Mesh-Routed Deferred Settlement)
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
